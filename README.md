@@ -9,7 +9,7 @@
 
 I'm a Mechatronics Engineering student passionate about **embedded systems**, **robotics**, and **mobile app development**. I love bridging the gap between hardware and software to create intelligent, automated solutions.
 
-Currently working on my **capstone project**: *Vision-based Broiler Health Detection System* with automated water medication dispensing using **Raspberry Pi + OpenCV**.
+Currently working on my **capstone project**: *CivEase* — a civic hazard reporting PWA making communities safer through real-time reporting.
 
 ---
 
@@ -17,11 +17,11 @@ Currently working on my **capstone project**: *Vision-based Broiler Health Detec
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
+| **CivEase** | Civic hazard reporting PWA | Next.js, Firebase, Tailwind CSS |
 | **Self-Balancing Robot** | Real-time balancing with cascaded PID control | ESP32, MPU-6050, TB6612FNG |
 | **Pick-and-Place Robot Arm** | Automated arm with Flutter Bluetooth controller | HC-05, L298N, Servos, Flutter |
 | **Niehr Project (Online Uno)** | Real-time multiplayer card game | Next.js, Socket.io, TypeScript |
 | **Animatronic Robot** | Interactive robot with mood-based behavior | SSD1306 OLED, RoboEyes, HC-05 |
-| **CivEase** | Civic hazard reporting PWA | Next.js, Firebase, Tailwind CSS |
 
 ---
 
@@ -62,13 +62,14 @@ Currently working on my **capstone project**: *Vision-based Broiler Health Detec
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nieru24&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nieru24&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Profile Views](https://komarev.com/ghpvc/?username=Nieru24&color=blue&style=flat-square)
+
+**Passionate about full-stack development & embedded systems** 🔧  
+*Combining hardware expertise with modern web technologies*
 
 </div>
 
@@ -76,10 +77,10 @@ Currently working on my **capstone project**: *Vision-based Broiler Health Detec
 
 ## 🎯 Currently Working On
 
+- 🌍 Developing **CivEase** with enhanced hazard detection features
 - 🤖 Enhancing the **self-balancing robot** with wireless control
 - 🎮 Building multiplayer features for **Niehr Project**
-- 🏥 Finalizing the **Vision-based Broiler Health Detection System** capstone
-- 📱 Expanding **CivEase** with real-time notifications
+- 📱 Expanding CivEase with real-time notifications and community engagement
 
 ---
 
