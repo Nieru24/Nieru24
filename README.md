@@ -27,11 +27,17 @@ Currently working on my **capstone project**: *CivEase* — a civic hazard repor
 
 ## 💻 Tech Stack
 
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Visual%20Basic%20.NET](https://img.shields.io/badge/Visual%20Basic%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend & Real-Time
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -42,23 +48,50 @@ Currently working on my **capstone project**: *CivEase* — a civic hazard repor
 ### Embedded Systems & Robotics
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Game Development & 3D
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### Design & Creative Tools
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-47B881?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### Development & IDE Tools
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Industrial & Design Tools
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-3B5E8E?style=for-the-badge&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-FF6B6B?style=for-the-badge&logoColor=white)
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Productivity & Collaboration
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-F4B183?style=for-the-badge&logo=googleslides&logoColor=white)
+
+---
+
+## 🎯 Soft Skills
+
+| Skill | Description |
+|-------|-------------|
+| 🤝 **Collaboration** | Team player with excellent communication in group projects and hackathons |
+| 💻 **Computer Literacy** | Proficient in various operating systems and software ecosystems |
+| 📊 **Problem Solving** | Strong analytical skills in debugging and optimizing hardware-software integration |
+| 🎓 **Learning Agility** | Quick learner who adapts to new technologies and frameworks |
+| 📋 **Project Management** | Experience organizing tasks and meeting deadlines in capstone development |
+| 🎨 **Creative Thinking** | Innovative approach to design and user experience in applications |
+| 📝 **Documentation** | Clear communicator in writing technical reports and project documentation |
+| 🔍 **Attention to Detail** | Meticulous in both code and circuit design implementation |
 
 ---
 
@@ -86,7 +119,7 @@ Currently working on my **capstone project**: *CivEase* — a civic hazard repor
 
 ## 🤝 Let's Connect!
 
-Feel free to reach out if you want to collaborate on robotics projects, embedded systems, or full-stack development!
+Feel free to reach out if you want to collaborate on robotics projects, embedded systems, full-stack development, or game development!
 
 **"Building bridges between the physical and digital world, one project at a time."** 🚀
 
