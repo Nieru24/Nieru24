@@ -19,9 +19,8 @@ Currently working on my **capstone project**: *CivEase* — a civic hazard repor
 |---------|-------------|-----------|
 | **CivEase** | Civic hazard reporting PWA | Next.js, Firebase, Tailwind CSS |
 | **Self-Balancing Robot** | Real-time balancing with cascaded PID control | ESP32, MPU-6050, TB6612FNG |
-| **Pick-and-Place Robot Arm** | Automated arm with Flutter Bluetooth controller | HC-05, L298N, Servos, Flutter |
+| **Pick-and-Place Robot** | Automated arm with Flutter Bluetooth controller | HC-05, L298N, Servos, Flutter |
 | **Niehr Project (Online Uno)** | Real-time multiplayer card game | Next.js, Socket.io, TypeScript |
-| **Animatronic Robot** | Interactive robot with mood-based behavior | SSD1306 OLED, RoboEyes, HC-05 |
 
 ---
 
